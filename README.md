@@ -17,6 +17,7 @@
 - [ ] I want alerting/email/texting.
 - [ ] I want the ability to upload files.
 - [ ] I want everything to be able to be exported to plain text formats.
+- [ ] Tests, Tests, Tests
 
 ## Development Plan
 
